@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Run With Me</title>
+        <link>http://runwith.chriskrycho.com</link>
+        <description>You run, I run, now we run together.</description>
+        <generator>Feeder 3 3.1.8(2650); Mac OS X Version 10.11.4 (Build 15E65) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
+        <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
+        <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
+        <pubDate>Sun, 10 Apr 2016 22:15:49 -0400</pubDate>
+        <lastBuildDate>Sun, 10 Apr 2016 22:15:49 -0400</lastBuildDate>
+        <image>
+            <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
+            <title>Run With Me</title>
+            <link>http://runwith.chriskrycho.com</link>
+        </image>
+        <atom:link href="http://runwith.chriskrycho.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <itunes:author>Chris Krycho</itunes:author>
+        <itunes:subtitle>A microcast about running, recorded while running. 3–5 minute episodes, released weekly-ish.</itunes:subtitle>
+        <itunes:summary><![CDATA[A microcast about running, recorded while running. In 3–5 minute episodes, released weekly-ish, I talk about it all: ups and downs, training, health, nutrition, motivation, racing, weird things your body does on long runs—everything. ]]></itunes:summary>
+        <itunes:keywords>running,fitness,microcast</itunes:keywords>
+        <itunes:image href="http://cdn.chriskrycho.com/runwith/cover-3000.jpg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Chris Krycho</itunes:name>
+            <itunes:email>hello@chriskrycho.com</itunes:email>
+        </itunes:owner>
+        <itunes:block>no</itunes:block>
+        <itunes:category text="Sports &amp; Recreation">
+            <itunes:category text="Outdoor"/>
+            <itunes:category text="Amateur"/>
+        </itunes:category>
+        <itunes:category text="Health">
+            <itunes:category text="Fitness &amp; Nutrition"/>
+        </itunes:category>
+        <item>
+            <title>2: New Routes</title>
+            <link>http://runwith.chriskrycho.com/episodes/2/</link>
+            <description><![CDATA[<p>Staying motivated by running new routes.</p>
+]]></description>
+            <pubDate>Sun, 10 Apr 2016 14:15:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/2.m4a" length="5182081" type="audio/x-m4a"/>
+            <guid isPermaLink="false">6E1F1FF7-469E-41DB-8556-0F265D08F679</guid>
+            <itunes:subtitle>Staying motivated by running new routes.</itunes:subtitle>
+            <itunes:summary><![CDATA[Staying motivated by running new routes.]]></itunes:summary>
+            <itunes:duration>4:24</itunes:duration>
+        </item>
+        <item>
+            <title>1: Hi, There!</title>
+            <link>http://runwith.chriskrycho.com/episodes/1/</link>
+            <description><![CDATA[<p>I went for a run. And then I invited you to join me! Here's to some great running in the weeks and months, and maybe years, ahead!</p>
+]]></description>
+            <pubDate>Tue, 05 Apr 2016 15:00:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/1.m4a" length="4272484" type="audio/x-m4a"/>
+            <guid isPermaLink="false">1470B853-C3E9-46FE-9CEB-475C4CFBE1BB</guid>
+            <itunes:summary><![CDATA[I went for a run. And then I invited you to join me! Here's to some great running in the weeks and months, and maybe years, ahead!]]></itunes:summary>
+            <itunes:duration>3:28</itunes:duration>
+        </item>
+    </channel>
+</rss>
