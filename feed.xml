@@ -10,8 +10,8 @@
         <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
         <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
         <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
-        <pubDate>Sat, 16 Apr 2016 09:22:28 -0400</pubDate>
-        <lastBuildDate>Sat, 16 Apr 2016 09:22:29 -0400</lastBuildDate>
+        <pubDate>Sat, 16 Apr 2016 14:45:53 -0400</pubDate>
+        <lastBuildDate>Sat, 16 Apr 2016 14:45:54 -0400</lastBuildDate>
         <image>
             <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
@@ -36,6 +36,23 @@
             <itunes:category text="Amateur"/>
             <itunes:category text="Outdoor"/>
         </itunes:category>
+        <item>
+            <title>4: Heart Rate Training</title>
+            <link>http://runwith.chriskrycho.com/runs/4/</link>
+            <description><![CDATA[<p>Heart-rating training (on a run where I was heart-rating training)!</p>
+<p>Maffetone training:</p>
+<ul>
+<li><a href="http://philmaffetone.com/method/">method</a></li>
+<li><a href="http://philmaffetone.com/180-formula/">180 formula</a></li>
+</ul>
+<p><a href="https://www.strava.com/activities/547225651">Check out the run!</a></p>
+]]></description>
+            <pubDate>Sat, 16 Apr 2016 14:41:45 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/4.m4a" length="6166459" type="audio/x-m4a"/>
+            <guid isPermaLink="false">C2539EC5-72A8-4B2D-B775-735E9260E547</guid>
+            <itunes:subtitle>Heart-rating training (on a run where I was heart-rating training)!</itunes:subtitle>
+            <itunes:duration>4:58</itunes:duration>
+        </item>
         <item>
             <title>3: Clearing My Head</title>
             <link>http://runwith.chriskrycho.com/runs/3/</link>
