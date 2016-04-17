@@ -2,46 +2,46 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Run With Me: A Micro-Podcast About Running</title>
+  <title>    Run With Me: A Micro-Podcast About Running
+</title>
 
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
   <link href="/favicon.png" type="image/png" rel="icon">
   <link href="/favicon.ico" type="image/ico" rel="icon">
 
-  <link rel="stylesheet" href="/styles.css" media="screen" charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="/styles.css" charset="utf-8">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <script src='/mtiFontTrackingCode.js'></script>
 </head>
 <body>
 
-  <main class="clearfix">
-    <div class="card">
-      <div class="card_side front">
-        <div class="pad">
-          <img src="//cdn.chriskrycho.com/runwith/cover-web.jpg" alt="Run With Me logo image" />
-        </div>
-      </div>
-      <div class="card_side back">
-        <div class="pad">
-          <h1>About</h1>
-          <p>
-            Run With Me is a microcast about running, recorded while running.
-            In 3–5 minute episodes, released weekly-ish, I talk about it all:
-            ups and downs, training, health, nutrition, motivation, racing,
-            weird things your body does on long runs—everything.
-          </p>
-        </div>
-
+<main class="clearfix">
+  <div class="card">
+    <div class="card_side front">
+      <div class="pad">
+        <img src="//cdn.chriskrycho.com/runwith/cover-web.jpg" alt="Run With Me logo image" />
       </div>
     </div>
-  </main>
+    <div class="card_side back">
+      <div class="pad">
+        <h1>About</h1>
+        <p>
+          Run With Me is a microcast about running, recorded while running.
+          In 3–5 minute episodes, released weekly-ish, I talk about it all:
+          ups and downs, training, health, nutrition, motivation, racing,
+          weird things your body does on long runs—everything.
+        </p>
+      </div>
+    </div>
+  </div>
+</main>  
 
-  <nav>
+  <nav class='site-nav'>
     <ul class="plain_list">
       <li>
         <ul class="inner_list plain_list">
-          <li><a title="Show 'About'" href="#" id=about><i class="fa fa-fw fa-user"></i>About</a></li>
+          <li><a title="Show 'About'" href="/" id=about><i class="fa fa-fw fa-user"></i>About</a></li>
         </ul>
       </li>
       <li>
@@ -80,28 +80,8 @@
       </li>
     </ul>
   </footer>
-  <script type="text/javascript">
-    (function() {
-      // Get all the "cards" (really, sides of the cards)
-      var card = document.querySelector('.card');
-      var about = document.querySelector('#about');
 
-      card.addEventListener("click", flipper(card));
-      about.addEventListener("click", flipper(card));
-
-      // Return an event handler, flipping the card passed as an argument.
-      function flipper(_card) {
-        return function(event) {
-          event.preventDefault();
-          if (_card.classList.contains("flipped")) {
-            _card.classList.remove("flipped");
-          }
-          else {
-            _card.classList.add("flipped");
-          }
-        }
-      }
-    })();
-  </script>
+  <script type="text/javascript" src="/card.js"></script>
+  <link rel="stylesheet" type="text/css" href="/fonts.css" charset="utf-8">
 </body>
 </html>
