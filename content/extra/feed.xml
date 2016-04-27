@@ -10,8 +10,8 @@
         <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
         <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
         <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
-        <pubDate>Sun, 17 Apr 2016 15:38:25 -0400</pubDate>
-        <lastBuildDate>Sun, 17 Apr 2016 15:38:25 -0400</lastBuildDate>
+        <pubDate>Tue, 26 Apr 2016 22:34:39 -0400</pubDate>
+        <lastBuildDate>Tue, 26 Apr 2016 22:34:39 -0400</lastBuildDate>
         <image>
             <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
@@ -36,6 +36,25 @@
             <itunes:category text="Amateur"/>
             <itunes:category text="Outdoor"/>
         </itunes:category>
+        <item>
+            <title>5: A Different Kind of Endurance</title>
+            <link>http://runwith.chriskrycho.com/runs/5/</link>
+            <description><![CDATA[<ul>
+<li>Learning to endure over not just one run, but many months, with a training strategy.</li>
+<li>And also: getting tired by taking a tempo run, a long run, and then a toddler run in a three day span.</li>
+</ul>
+<p><a href="https://www.strava.com/activities/557728967">Check out the run!</a></p>
+]]></description>
+            <pubDate>Tue, 26 Apr 2016 22:34:33 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/5.m4a" length="6181770" type="audio/x-m4a"/>
+            <guid isPermaLink="false">A81E5894-EAE5-4F19-8BFE-9A6FE05DFBC3</guid>
+            <itunes:summary><![CDATA[* Learning to endure over not just one run, but many months, with a training strategy.
+
+* And also: getting tired by taking a tempo run, a long run, and then a toddler run in a three day span.
+
+Check out the run! https://www.strava.com/activities/557728967]]></itunes:summary>
+            <itunes:duration>4:59</itunes:duration>
+        </item>
         <item>
             <title>4: Heart Rate Training</title>
             <link>http://runwith.chriskrycho.com/runs/4/</link>
