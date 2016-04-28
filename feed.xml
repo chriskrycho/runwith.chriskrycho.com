@@ -10,8 +10,8 @@
         <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
         <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
         <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
-        <pubDate>Tue, 26 Apr 2016 22:34:39 -0400</pubDate>
-        <lastBuildDate>Tue, 26 Apr 2016 22:34:39 -0400</lastBuildDate>
+        <pubDate>Wed, 27 Apr 2016 22:40:50 -0400</pubDate>
+        <lastBuildDate>Wed, 27 Apr 2016 22:40:51 -0400</lastBuildDate>
         <image>
             <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
@@ -36,6 +36,21 @@
             <itunes:category text="Amateur"/>
             <itunes:category text="Outdoor"/>
         </itunes:category>
+        <item>
+            <title>[PRC]1: Motivation</title>
+            <link>http://runwith.chriskrycho.com/prc/1/</link>
+            <description><![CDATA[<p>Whatever it takes to motivate yourself…</p>
+<p><a href="https://www.strava.com/activities/558594243">Check out the run!</a></p>
+]]></description>
+            <pubDate>Wed, 27 Apr 2016 17:40:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/PRC1.m4a" length="1159939" type="audio/x-m4a"/>
+            <guid isPermaLink="false">6B1A5A86-7C71-4EC7-B558-D93A6CCC892C</guid>
+            <itunes:subtitle>Whatever it takes to motivate yourself…</itunes:subtitle>
+            <itunes:summary><![CDATA[Whatever it takes to motivate yourself…
+
+Check out the run! https://www.strava.com/activities/558594243]]></itunes:summary>
+            <itunes:duration>1:04</itunes:duration>
+        </item>
         <item>
             <title>5: A Different Kind of Endurance</title>
             <link>http://runwith.chriskrycho.com/runs/5/</link>
