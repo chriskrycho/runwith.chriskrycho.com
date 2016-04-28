@@ -3,6 +3,7 @@ html {
   font-family: 'Cronos Pro';
   font-size: 18px;
   font-weight: 400;
+  height: 100vh;
   background: repeating-linear-gradient(
     45deg,
     #b0b4c0,
@@ -13,8 +14,6 @@ html {
 }
 
 body {
-  height: 100%;
-  width: 100%;
   margin: 0;
   padding: 0;
 }
@@ -229,10 +228,13 @@ a:active {
 
 
 /* Archive and entries */
+.archive {
+  padding-top: 4em;
+}
+
 .run-entry__title,
 .archive__title {
   font-size: 2em;
-  margin: 2em 0 0;
   padding: 1em 0;
   text-align: center;
   color: #FEFEFE;
