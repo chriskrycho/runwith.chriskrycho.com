@@ -200,6 +200,7 @@ a:active {
 .site-nav .inner_list {
   padding: 0 10%;
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
   text-align: center;
@@ -207,7 +208,7 @@ a:active {
 }
 
 .site-nav .inner_list li {
-  flex: 1 0 20%;
+  flex: 1 0 10em;
   border: none;
 }
 
