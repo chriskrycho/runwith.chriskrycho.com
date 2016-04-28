@@ -23,13 +23,15 @@ THEME_STATIC_DIR = ''
 DIRECT_TEMPLATES = ['index', 'archives']
 PAGINATED_DIRECT_TEMPLATES = ['archives']
 
-ARTICLE_SAVE_AS = 'runs/{number}/index.html'
-ARTICLE_URL = 'runs/{number}/'
+ARTICLE_SAVE_AS = '{category}/{number}/index.html'
+ARTICLE_URL = '{category}/{number}/'
 
-ARCHIVES_SAVE_AS = 'runs/index.html'
+ARCHIVES_SAVE_AS = 'all/index.html'
+
+CATEGORY_URL = '{slug}/'
+CATEGORY_SAVE_AS = '{slug}/index.html'
 
 # Disable unused pages
-CATEGORY_SAVE_AS = ''
 CATEGORIES_SAVE_AS = ''
 TAG_SAVE_AS = ''
 TAGS_SAVE_AS = ''
