@@ -10,8 +10,8 @@
         <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
         <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
         <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
-        <pubDate>Wed, 27 Apr 2016 22:40:50 -0400</pubDate>
-        <lastBuildDate>Wed, 27 Apr 2016 22:40:51 -0400</lastBuildDate>
+        <pubDate>Sun, 08 May 2016 13:36:34 -0400</pubDate>
+        <lastBuildDate>Sun, 08 May 2016 13:36:34 -0400</lastBuildDate>
         <image>
             <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
@@ -36,6 +36,17 @@
             <itunes:category text="Amateur"/>
             <itunes:category text="Outdoor"/>
         </itunes:category>
+        <item>
+            <title>6: A Run is a Break</title>
+            <link>http://runwith.chriskrycho.com/runs/6/</link>
+            <description><![CDATA[<p>How sometimes running makes you feel less physically tired, even when you start our incredibly tired physically. Counterintuitive? Maybe. But it's true anyway.</p>
+]]></description>
+            <pubDate>Mon, 02 May 2016 20:37:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/6.m4a" length="5702772" type="audio/x-m4a"/>
+            <guid isPermaLink="false">CEAC9D6B-F754-465D-853F-64D1F09C1261</guid>
+            <itunes:summary><![CDATA[How sometimes running makes you feel less physically tired, even when you start our incredibly tired physically. Counterintuitive? Maybe. But it's true anyway.]]></itunes:summary>
+            <itunes:duration>4:31</itunes:duration>
+        </item>
         <item>
             <title>[PRC]1: Motivation</title>
             <link>http://runwith.chriskrycho.com/prc/1/</link>
