@@ -10,8 +10,8 @@
         <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
         <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
         <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
-        <pubDate>Sun, 08 May 2016 13:36:34 -0400</pubDate>
-        <lastBuildDate>Sun, 08 May 2016 13:36:34 -0400</lastBuildDate>
+        <pubDate>Wed, 11 May 2016 07:06:28 -0400</pubDate>
+        <lastBuildDate>Wed, 11 May 2016 07:06:28 -0400</lastBuildDate>
         <image>
             <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
@@ -37,14 +37,31 @@
             <itunes:category text="Outdoor"/>
         </itunes:category>
         <item>
+            <title>7: Pushups and Pullups</title>
+            <link>http://runwith.chriskrycho.com/runs/7/</link>
+            <description><![CDATA[<p>Running isn’t a great way to lose weight—you need to include strength training for that. But it <em>is</em> a great way to get healthy in general.</p>
+<p><a href="https://www.strava.com/activities/571998405">Check out the run!</a></p>
+]]></description>
+            <pubDate>Tue, 10 May 2016 17:20:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/7.m4a" length="5752572" type="audio/x-m4a"/>
+            <guid isPermaLink="false">93B52F64-E2A8-464C-AB67-07ACBD2B66D5</guid>
+            <itunes:summary><![CDATA[Running isn’t a great way to lose weight—you need to include strength training for that. But it *is* a great way to get healthy in general.
+
+Check out the run!: https://www.strava.com/activities/571998405]]></itunes:summary>
+            <itunes:duration>4:37</itunes:duration>
+        </item>
+        <item>
             <title>6: A Run is a Break</title>
             <link>http://runwith.chriskrycho.com/runs/6/</link>
             <description><![CDATA[<p>How sometimes running makes you feel less physically tired, even when you start our incredibly tired physically. Counterintuitive? Maybe. But it's true anyway.</p>
+<p><a href="https://www.strava.com/activities/evening-run-563593692">Check out the run!</a></p>
 ]]></description>
             <pubDate>Mon, 02 May 2016 20:37:00 -0400</pubDate>
             <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/6.m4a" length="5702772" type="audio/x-m4a"/>
             <guid isPermaLink="false">CEAC9D6B-F754-465D-853F-64D1F09C1261</guid>
-            <itunes:summary><![CDATA[How sometimes running makes you feel less physically tired, even when you start our incredibly tired physically. Counterintuitive? Maybe. But it's true anyway.]]></itunes:summary>
+            <itunes:summary><![CDATA[How sometimes running makes you feel less physically tired, even when you start our incredibly tired physically. Counterintuitive? Maybe. But it's true anyway.
+
+Check out the run: https://www.strava.com/activities/evening-run-563593692]]></itunes:summary>
             <itunes:duration>4:31</itunes:duration>
         </item>
         <item>
