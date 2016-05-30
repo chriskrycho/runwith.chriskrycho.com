@@ -10,8 +10,8 @@
         <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
         <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
         <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
-        <pubDate>Mon, 30 May 2016 09:10:55 -0400</pubDate>
-        <lastBuildDate>Mon, 30 May 2016 09:10:56 -0400</lastBuildDate>
+        <pubDate>Mon, 30 May 2016 11:48:14 -0400</pubDate>
+        <lastBuildDate>Mon, 30 May 2016 11:48:14 -0400</lastBuildDate>
         <image>
             <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
@@ -36,6 +36,28 @@
             <itunes:category text="Amateur"/>
             <itunes:category text="Outdoor"/>
         </itunes:category>
+        <item>
+            <title>9: Consistency/Nutrition</title>
+            <link>http://runwith.chriskrycho.com/runs/9/</link>
+            <description><![CDATA[<p>Two little topics:</p>
+<ol>
+<li>Consistency is tough especially when you're busy. Even when you fall behind, though, just get back out there.</li>
+<li>Health by way of nutrition is more than just calories-in and calories-out. <em>How much</em> you eat matters, but so does <em>what</em> you eat.</li>
+</ol>
+<p><a href="https://www.strava.com/activities/592326197">Check out the run!</a></p>
+]]></description>
+            <pubDate>Sun, 29 May 2016 14:55:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/9.m4a" length="5171640" type="audio/x-m4a"/>
+            <guid isPermaLink="false">AE663B5B-548A-4122-B374-17A8C00E106B</guid>
+            <itunes:summary><![CDATA[Two little topics:
+
+1. Consistency is tough especially when you're busy. Even when you fall behind, though, just get back out there.
+
+2. Health by way of nutrition is more than just calories-in and calories-out. How much you eat matters, but so does what you eat.
+
+Check out the run! https://www.strava.com/activities/592326197]]></itunes:summary>
+            <itunes:duration>4:01</itunes:duration>
+        </item>
         <item>
             <title>8. Far From Home</title>
             <link>http://runwith.chriskrycho.com/runs/8/</link>
