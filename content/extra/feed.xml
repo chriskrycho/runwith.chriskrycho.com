@@ -4,14 +4,14 @@
         <title>Run With Me</title>
         <link>http://runwith.chriskrycho.com</link>
         <description>You run, I run, now we run together.</description>
-        <generator>Feeder 3 3.1.8(2650); Mac OS X Version 10.11.4 (Build 15E65) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.1.8(2650); Mac OS X Version 10.11.5 (Build 15F34) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
         <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
         <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
-        <pubDate>Wed, 11 May 2016 07:06:28 -0400</pubDate>
-        <lastBuildDate>Wed, 11 May 2016 07:06:28 -0400</lastBuildDate>
+        <pubDate>Mon, 30 May 2016 09:10:55 -0400</pubDate>
+        <lastBuildDate>Mon, 30 May 2016 09:10:56 -0400</lastBuildDate>
         <image>
             <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
@@ -36,6 +36,24 @@
             <itunes:category text="Amateur"/>
             <itunes:category text="Outdoor"/>
         </itunes:category>
+        <item>
+            <title>8. Far From Home</title>
+            <link>http://runwith.chriskrycho.com/runs/8/</link>
+            <description><![CDATA[<p>Keeping at it even when you're on the road: it takes a lot of discipline, but it's also totally worth it.</p>
+<p>I did the first three miles of this run with my dad!</p>
+<p><a href="https://www.strava.com/activities/583687227">Check out the run!</a></p>
+]]></description>
+            <pubDate>Sat, 21 May 2016 17:15:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/8.m4a" length="5147093" type="audio/x-m4a"/>
+            <guid isPermaLink="false">EDE0F2BC-EB94-41E8-B728-FDA4F94DB2A6</guid>
+            <itunes:subtitle>Running while traveling</itunes:subtitle>
+            <itunes:summary><![CDATA[Keeping at it even when you're on the road: it takes a lot of discipline, but it's also totally worth it.
+
+I did the first three miles of this run with my dad!
+
+Check out the run! https://www.strava.com/activities/583687227]]></itunes:summary>
+            <itunes:duration>4:52</itunes:duration>
+        </item>
         <item>
             <title>7: Pushups and Pullups</title>
             <link>http://runwith.chriskrycho.com/runs/7/</link>
