@@ -10,8 +10,8 @@
         <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
         <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
         <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
-        <pubDate>Mon, 30 May 2016 11:48:14 -0400</pubDate>
-        <lastBuildDate>Mon, 30 May 2016 11:48:14 -0400</lastBuildDate>
+        <pubDate>Mon, 30 May 2016 20:21:06 -0400</pubDate>
+        <lastBuildDate>Mon, 30 May 2016 20:21:07 -0400</lastBuildDate>
         <image>
             <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
@@ -36,6 +36,20 @@
             <itunes:category text="Amateur"/>
             <itunes:category text="Outdoor"/>
         </itunes:category>
+        <item>
+            <title>[PRC]2: Stopping</title>
+            <link>http://runwith.chriskrycho.com/prc/2/</link>
+            <description><![CDATA[<p>Sometimes you go home from your run a mile or two early, because that's what's healthy and safe.</p>
+<p><a href="https://www.strava.com/activities/593269394">Check out the run!</a></p>
+]]></description>
+            <pubDate>Mon, 30 May 2016 14:55:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/PRC2.m4a" length="2731951" type="audio/x-m4a"/>
+            <guid isPermaLink="false">6AA62EB3-256A-47FB-8186-3D5573E6B5A3</guid>
+            <itunes:summary><![CDATA[Sometimes you go home from your run a mile or two early, because that's what's healthy and safe.
+
+Check out the run: https://www.strava.com/activities/593269394]]></itunes:summary>
+            <itunes:duration>1:31</itunes:duration>
+        </item>
         <item>
             <title>9: Consistency/Nutrition</title>
             <link>http://runwith.chriskrycho.com/runs/9/</link>
