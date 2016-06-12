@@ -4,14 +4,14 @@
         <title>Run With Me</title>
         <link>http://runwith.chriskrycho.com</link>
         <description>You run, I run, now we run together.</description>
-        <generator>Feeder 3 3.1.8(2650); Mac OS X Version 10.11.5 (Build 15F34) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.2.2(2752); Mac OS X Version 10.11.5 (Build 15F34) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
         <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
         <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
-        <pubDate>Mon, 30 May 2016 20:21:06 -0400</pubDate>
-        <lastBuildDate>Mon, 30 May 2016 20:21:07 -0400</lastBuildDate>
+        <pubDate>Sun, 12 Jun 2016 10:11:46 -0400</pubDate>
+        <lastBuildDate>Sun, 12 Jun 2016 10:11:46 -0400</lastBuildDate>
         <image>
             <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
@@ -36,6 +36,36 @@
             <itunes:category text="Amateur"/>
             <itunes:category text="Outdoor"/>
         </itunes:category>
+        <item>
+            <title>[PRC]3: Adapting on the Fly</title>
+            <link>http://runwith.chriskrycho.com/prc/3/</link>
+            <description><![CDATA[<p>The opposite of the previous PRC: just as you sometimes go home early because your body is complaining, sometimes you stay out longer or run harder because your body is raring to go.</p>
+<p><a href="https://www.strava.com/activities/604257166/overview">Check out the run!</a></p>
+]]></description>
+            <pubDate>Fri, 10 Jun 2016 17:23:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/PRC3.m4a" length="2328544" type="audio/x-m4a"/>
+            <guid isPermaLink="false">2E77556D-E3AF-49B4-869A-F53047BE9440</guid>
+            <itunes:subtitle>The opposite of the previous PRC: just as you sometimes go home early because your body is complaining, sometimes you stay out longer or run harder because your body is raring to go.</itunes:subtitle>
+            <itunes:summary><![CDATA[The opposite of the previous PRC: just as you sometimes go home early because your body is complaining, sometimes you stay out longer or run harder because your body is raring to go.
+
+Check out the run! https://www.strava.com/activities/604257166/overview]]></itunes:summary>
+            <itunes:duration>1:04</itunes:duration>
+        </item>
+        <item>
+            <title>10: Crosstraining</title>
+            <link>http://runwith.chriskrycho.com/runs/10/</link>
+            <description><![CDATA[<p>Even if you're just a runner, mixing in other sports like swimming, cycling, or weight training will be extremely helpful.</p>
+<p><a href="https://www.strava.com/activities/604257166/overview">Check out the run!</a></p>
+]]></description>
+            <pubDate>Fri, 10 Jun 2016 16:41:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/10.m4a" length="5605966" type="audio/x-m4a"/>
+            <guid isPermaLink="false">1843EFE0-FC55-4B6C-9F7D-5259DE082683</guid>
+            <itunes:subtitle>Even if you're just a runner, mixing in other sports like swimming, cycling, or weight training will be extremely helpful.</itunes:subtitle>
+            <itunes:summary><![CDATA[Even if you're just a runner, mixing in other sports like swimming, cycling, or weight training will be extremely helpful.
+
+Check out the run! https://www.strava.com/activities/604257166/overview]]></itunes:summary>
+            <itunes:duration>4:21</itunes:duration>
+        </item>
         <item>
             <title>[PRC]2: Stopping</title>
             <link>http://runwith.chriskrycho.com/prc/2/</link>
