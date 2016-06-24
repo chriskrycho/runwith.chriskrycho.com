@@ -4,14 +4,14 @@
         <title>Run With Me</title>
         <link>http://runwith.chriskrycho.com</link>
         <description>You run, I run, now we run together.</description>
-        <generator>Feeder 3 3.2.2(2752); Mac OS X Version 10.11.5 (Build 15F34) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.2.3(2757); Mac OS X Version 10.11.5 (Build 15F34) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
         <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
         <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
-        <pubDate>Sun, 12 Jun 2016 10:11:46 -0400</pubDate>
-        <lastBuildDate>Sun, 12 Jun 2016 10:11:46 -0400</lastBuildDate>
+        <pubDate>Fri, 24 Jun 2016 19:04:23 -0400</pubDate>
+        <lastBuildDate>Fri, 24 Jun 2016 19:04:24 -0400</lastBuildDate>
         <image>
             <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
@@ -36,6 +36,20 @@
             <itunes:category text="Amateur"/>
             <itunes:category text="Outdoor"/>
         </itunes:category>
+        <item>
+            <title>11: Avoiding Injury</title>
+            <link>http://runwith.chriskrycho.com/runs/11/</link>
+            <description><![CDATA[<p>How to avoid getting injuries, or exacerbating mild ones, by listening to your body. (This is a recurring theme!)</p>
+<p><a href="https://www.strava.com/activities/617887821">Check out the run!</a></p>
+]]></description>
+            <pubDate>Wed, 22 Jun 2016 12:00:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/11.m4a" length="5004188" type="audio/x-m4a"/>
+            <guid isPermaLink="false">358B318A-FED9-4880-BEFA-46C89FDF6943</guid>
+            <itunes:summary><![CDATA[How to avoid getting injuries, or exacerbating mild ones, by listening to your body. (This is a recurring theme!)
+
+Check out the run! https://www.strava.com/activities/617887821]]></itunes:summary>
+            <itunes:duration>3:47</itunes:duration>
+        </item>
         <item>
             <title>[PRC]3: Adapting on the Fly</title>
             <link>http://runwith.chriskrycho.com/prc/3/</link>
