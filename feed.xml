@@ -4,14 +4,14 @@
         <title>Run With Me</title>
         <link>http://runwith.chriskrycho.com</link>
         <description>You run, I run, now we run together.</description>
-        <generator>Feeder 3 3.2.3(2757); Mac OS X Version 10.11.5 (Build 15F34) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.2.5(2767); Mac OS X Version 10.11.5 (Build 15F34) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
         <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
         <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
-        <pubDate>Fri, 24 Jun 2016 19:04:23 -0400</pubDate>
-        <lastBuildDate>Fri, 24 Jun 2016 19:04:24 -0400</lastBuildDate>
+        <pubDate>Sun, 10 Jul 2016 08:02:25 -0400</pubDate>
+        <lastBuildDate>Sun, 10 Jul 2016 08:02:25 -0400</lastBuildDate>
         <image>
             <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
@@ -36,6 +36,21 @@
             <itunes:category text="Amateur"/>
             <itunes:category text="Outdoor"/>
         </itunes:category>
+        <item>
+            <title>[PRC]4: Hydrate!</title>
+            <link>http://runwith.chriskrycho.com/prc/4/</link>
+            <description><![CDATA[<p>12-mile runs without a water bottle are a bad idea.</p>
+<p><a href="https://www.strava.com/activities/629147448/embed/eb0b88065a3eff1b261c49262b8e66f4090c4aab">Check out the run!</a></p>
+]]></description>
+            <pubDate>Sun, 03 Jul 2016 16:00:00 -0400</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/PRC4.m4a" length="2170810" type="audio/x-m4a"/>
+            <guid isPermaLink="false">58E6E5FD-0D3F-4260-950B-09A62450E047</guid>
+            <itunes:subtitle>12-mile runs without a water bottle are a bad idea.</itunes:subtitle>
+            <itunes:summary><![CDATA[12-mile runs without a water bottle are a bad idea.
+
+Check out the run!: https://www.strava.com/activities/629147448/embed/eb0b88065a3eff1b261c49262b8e66f4090c4aab]]></itunes:summary>
+            <itunes:duration>0:57</itunes:duration>
+        </item>
         <item>
             <title>11: Avoiding Injury</title>
             <link>http://runwith.chriskrycho.com/runs/11/</link>
