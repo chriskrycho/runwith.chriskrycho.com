@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>Run With Me</title>
         <link>http://runwith.chriskrycho.com</link>
         <description>You run, I run, now we run together.</description>
-        <generator>Feeder 3 3.2.6(2774); Mac OS X Version 10.11.6 (Build 15G31) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.3.6(2864); Mac OS X Version 10.12.2 (Build 16C67) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
         <copyright>2016 Chris Krycho. License: Creative Commons Attribution</copyright>
         <managingEditor>hello@chriskrych.com (Chris Krycho)</managingEditor>
         <webMaster>hello@chriskrych.com (Chris Krycho)</webMaster>
-        <pubDate>Sun, 07 Aug 2016 12:53:05 -0400</pubDate>
-        <lastBuildDate>Sun, 07 Aug 2016 12:53:05 -0400</lastBuildDate>
+        <pubDate>Wed, 28 Dec 2016 19:24:43 -0500</pubDate>
+        <lastBuildDate>Wed, 28 Dec 2016 19:24:43 -0500</lastBuildDate>
         <image>
             <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
@@ -36,6 +36,18 @@
             <itunes:category text="Amateur"/>
             <itunes:category text="Outdoor"/>
         </itunes:category>
+        <item>
+            <title>14: Welcome Back</title>
+            <link>http://runwith.chriskrycho.com/runs/14/</link>
+            <description><![CDATA[<p>I've been gone, courtesy of a temporarily non-functional microphone and a ridiculously crazy fall. Time to amp it back up for some triathlon and marathon training in 2017!</p>
+]]></description>
+            <pubDate>Wed, 28 Dec 2016 14:35:00 -0500</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/14.m4a" length="3369750" type="audio/x-m4a"/>
+            <guid isPermaLink="false">5602BC5B-9548-4CB1-9E6A-C6C0EED7BCCC</guid>
+            <itunes:subtitle>I've been gone, but now I'm back!</itunes:subtitle>
+            <itunes:summary><![CDATA[I've been gone, courtesy of a temporarily non-functional microphone and a ridiculously crazy fall. Time to amp it back up for some triathlon and marathon training in 2017!]]></itunes:summary>
+            <itunes:duration>2:11</itunes:duration>
+        </item>
         <item>
             <title>13: Training Volume/Don’t Be Dumb</title>
             <link>http://runwith.chriskrycho.com/runs/13/</link>
