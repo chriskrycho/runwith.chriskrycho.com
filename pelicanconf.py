@@ -7,7 +7,7 @@ SITENAME = 'Run With Me: A Micro-Podcast About Running'
 SITE_DESCRIPTION = 'Run With Me is a microcast about running, recorded while running. In 3–5 minute episodes, released weekly-ish, I talk about it all: ups and downs, training, health, nutrition, motivation, racing, weird things your body does on long runs—everything.'
 SITEURL = ''
 
-LOGO = '//cdn.chriskrycho.com/runwith/cover-web.jpg'
+LOGO = '//cdn.chriskrycho.com/file/chriskrycho-com/runwith/cover-web.jpg'
 
 PATH = 'content'
 
