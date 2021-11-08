@@ -13,7 +13,7 @@
         <pubDate>Wed, 28 Dec 2016 19:24:43 -0500</pubDate>
         <lastBuildDate>Wed, 28 Dec 2016 19:24:43 -0500</lastBuildDate>
         <image>
-            <url>http://cdn.chriskrycho.com/runwith/cover-3000.jpg</url>
+            <url>http://cdn.chriskrycho.com/file/chriskrycho-com/runwith/cover-3000.jpg</url>
             <title>Run With Me</title>
             <link>http://runwith.chriskrycho.com</link>
         </image>
@@ -22,7 +22,7 @@
         <itunes:subtitle>A microcast about running, recorded while running. 3–5 minute episodes, released weekly-ish.</itunes:subtitle>
         <itunes:summary><![CDATA[A microcast about running, recorded while running. In 3–5 minute episodes, released weekly-ish, I talk about it all: ups and downs, training, health, nutrition, motivation, racing, weird things your body does on long runs—everything. ]]></itunes:summary>
         <itunes:keywords>running,fitness,microcast</itunes:keywords>
-        <itunes:image href="http://cdn.chriskrycho.com/runwith/cover-3000.jpg"/>
+        <itunes:image href="http://cdn.chriskrycho.com/file/chriskrycho-com/runwith/cover-3000.jpg"/>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:owner>
             <itunes:name>Chris Krycho</itunes:name>
@@ -42,7 +42,7 @@
             <description><![CDATA[<p>I've been gone, courtesy of a temporarily non-functional microphone and a ridiculously crazy fall. Time to amp it back up for some triathlon and marathon training in 2017!</p>
 ]]></description>
             <pubDate>Wed, 28 Dec 2016 14:35:00 -0500</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/14.m4a" length="3369750" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/14.m4a" length="3369750" type="audio/x-m4a"/>
             <guid isPermaLink="false">5602BC5B-9548-4CB1-9E6A-C6C0EED7BCCC</guid>
             <itunes:subtitle>I've been gone, but now I'm back!</itunes:subtitle>
             <itunes:summary><![CDATA[I've been gone, courtesy of a temporarily non-functional microphone and a ridiculously crazy fall. Time to amp it back up for some triathlon and marathon training in 2017!]]></itunes:summary>
@@ -55,7 +55,7 @@
 <p><a href="https://www.strava.com/activities/665807331/embed/debc30d523461f1b18347ed54863874df9eabe53">Check out the run!</a></p>
 ]]></description>
             <pubDate>Wed, 03 Aug 2016 10:00:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/13.m4a" length="6111428" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/13.m4a" length="6111428" type="audio/x-m4a"/>
             <guid isPermaLink="false">AAC30546-F65C-4FC0-A2A7-25AFEA902AB9</guid>
             <itunes:subtitle>Keep your training volume increase reasonable—10–15% weekly.</itunes:subtitle>
             <itunes:summary><![CDATA[Keep your training volume increase reasonable—10–15% weekly, with a hard maximum of 20%. Failing to do so is a good way to end up sick (like I did).
@@ -71,7 +71,7 @@ Check out the run! https://www.strava.com/activities/665807331/embed/debc30d5234
 <p>(You can see that accidental 20-mile long run <a href="https://www.strava.com/activities/644619792">here</a>.)</p>
 ]]></description>
             <pubDate>Tue, 19 Jul 2016 10:15:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/PRC5.m4a" length="3535359" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/PRC5.m4a" length="3535359" type="audio/x-m4a"/>
             <guid isPermaLink="false">860B1B13-3E74-4EE2-AD58-58838BA6C235</guid>
             <itunes:subtitle>It's important to include rest in your training plan.</itunes:subtitle>
             <itunes:summary><![CDATA[It's important to include rest in your training plan. Especially when you do extra-long runs.
@@ -95,7 +95,7 @@ Check out the run! https://www.strava.com/activities/646209790/embed/a6defccacf2
 <p><a href="https://www.strava.com/activities/646209790/embed/a6defccacf296f0d89aeb865edd7597804251b4d">Check out the run!</a></p>
 ]]></description>
             <pubDate>Sun, 10 Jul 2016 12:35:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/12.m4a" length="6918295" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/12.m4a" length="6918295" type="audio/x-m4a"/>
             <guid isPermaLink="false">9C1CC418-35B6-4B1F-90F2-D2BA186C0890</guid>
             <itunes:subtitle>A good mix of runs for half-marathon training.</itunes:subtitle>
             <itunes:summary><![CDATA[A good mix of runs for half-marathon training.
@@ -116,7 +116,7 @@ Check out the run! https://www.strava.com/activities/646209790/embed/a6defccacf2
 <p><a href="https://www.strava.com/activities/629147448/embed/eb0b88065a3eff1b261c49262b8e66f4090c4aab">Check out the run!</a></p>
 ]]></description>
             <pubDate>Sun, 03 Jul 2016 16:00:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/PRC4.m4a" length="2170810" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/PRC4.m4a" length="2170810" type="audio/x-m4a"/>
             <guid isPermaLink="false">58E6E5FD-0D3F-4260-950B-09A62450E047</guid>
             <itunes:subtitle>12-mile runs without a water bottle are a bad idea.</itunes:subtitle>
             <itunes:summary><![CDATA[12-mile runs without a water bottle are a bad idea.
@@ -131,7 +131,7 @@ Check out the run!: https://www.strava.com/activities/629147448/embed/eb0b88065a
 <p><a href="https://www.strava.com/activities/617887821">Check out the run!</a></p>
 ]]></description>
             <pubDate>Wed, 22 Jun 2016 12:00:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/11.m4a" length="5004188" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/11.m4a" length="5004188" type="audio/x-m4a"/>
             <guid isPermaLink="false">358B318A-FED9-4880-BEFA-46C89FDF6943</guid>
             <itunes:summary><![CDATA[How to avoid getting injuries, or exacerbating mild ones, by listening to your body. (This is a recurring theme!)
 
@@ -145,7 +145,7 @@ Check out the run! https://www.strava.com/activities/617887821]]></itunes:summar
 <p><a href="https://www.strava.com/activities/604257166/overview">Check out the run!</a></p>
 ]]></description>
             <pubDate>Fri, 10 Jun 2016 17:23:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/PRC3.m4a" length="2328544" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/PRC3.m4a" length="2328544" type="audio/x-m4a"/>
             <guid isPermaLink="false">2E77556D-E3AF-49B4-869A-F53047BE9440</guid>
             <itunes:subtitle>The opposite of the previous PRC: just as you sometimes go home early because your body is complaining, sometimes you stay out longer or run harder because your body is raring to go.</itunes:subtitle>
             <itunes:summary><![CDATA[The opposite of the previous PRC: just as you sometimes go home early because your body is complaining, sometimes you stay out longer or run harder because your body is raring to go.
@@ -160,7 +160,7 @@ Check out the run! https://www.strava.com/activities/604257166/overview]]></itun
 <p><a href="https://www.strava.com/activities/604257166/overview">Check out the run!</a></p>
 ]]></description>
             <pubDate>Fri, 10 Jun 2016 16:41:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/10.m4a" length="5605966" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/10.m4a" length="5605966" type="audio/x-m4a"/>
             <guid isPermaLink="false">1843EFE0-FC55-4B6C-9F7D-5259DE082683</guid>
             <itunes:subtitle>Even if you're just a runner, mixing in other sports like swimming, cycling, or weight training will be extremely helpful.</itunes:subtitle>
             <itunes:summary><![CDATA[Even if you're just a runner, mixing in other sports like swimming, cycling, or weight training will be extremely helpful.
@@ -175,7 +175,7 @@ Check out the run! https://www.strava.com/activities/604257166/overview]]></itun
 <p><a href="https://www.strava.com/activities/593269394">Check out the run!</a></p>
 ]]></description>
             <pubDate>Mon, 30 May 2016 14:55:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/PRC2.m4a" length="2731951" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/PRC2.m4a" length="2731951" type="audio/x-m4a"/>
             <guid isPermaLink="false">6AA62EB3-256A-47FB-8186-3D5573E6B5A3</guid>
             <itunes:summary><![CDATA[Sometimes you go home from your run a mile or two early, because that's what's healthy and safe.
 
@@ -193,7 +193,7 @@ Check out the run: https://www.strava.com/activities/593269394]]></itunes:summar
 <p><a href="https://www.strava.com/activities/592326197">Check out the run!</a></p>
 ]]></description>
             <pubDate>Sun, 29 May 2016 14:55:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/9.m4a" length="5171640" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/9.m4a" length="5171640" type="audio/x-m4a"/>
             <guid isPermaLink="false">AE663B5B-548A-4122-B374-17A8C00E106B</guid>
             <itunes:summary><![CDATA[Two little topics:
 
@@ -212,7 +212,7 @@ Check out the run! https://www.strava.com/activities/592326197]]></itunes:summar
 <p><a href="https://www.strava.com/activities/583687227">Check out the run!</a></p>
 ]]></description>
             <pubDate>Sat, 21 May 2016 17:15:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/8.m4a" length="5147093" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/8.m4a" length="5147093" type="audio/x-m4a"/>
             <guid isPermaLink="false">EDE0F2BC-EB94-41E8-B728-FDA4F94DB2A6</guid>
             <itunes:subtitle>Running while traveling</itunes:subtitle>
             <itunes:summary><![CDATA[Keeping at it even when you're on the road: it takes a lot of discipline, but it's also totally worth it.
@@ -229,7 +229,7 @@ Check out the run! https://www.strava.com/activities/583687227]]></itunes:summar
 <p><a href="https://www.strava.com/activities/571998405">Check out the run!</a></p>
 ]]></description>
             <pubDate>Tue, 10 May 2016 17:20:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/7.m4a" length="5752572" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/7.m4a" length="5752572" type="audio/x-m4a"/>
             <guid isPermaLink="false">93B52F64-E2A8-464C-AB67-07ACBD2B66D5</guid>
             <itunes:summary><![CDATA[Running isn’t a great way to lose weight—you need to include strength training for that. But it *is* a great way to get healthy in general.
 
@@ -243,7 +243,7 @@ Check out the run!: https://www.strava.com/activities/571998405]]></itunes:summa
 <p><a href="https://www.strava.com/activities/evening-run-563593692">Check out the run!</a></p>
 ]]></description>
             <pubDate>Mon, 02 May 2016 20:37:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/6.m4a" length="5702772" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/6.m4a" length="5702772" type="audio/x-m4a"/>
             <guid isPermaLink="false">CEAC9D6B-F754-465D-853F-64D1F09C1261</guid>
             <itunes:summary><![CDATA[How sometimes running makes you feel less physically tired, even when you start our incredibly tired physically. Counterintuitive? Maybe. But it's true anyway.
 
@@ -257,7 +257,7 @@ Check out the run: https://www.strava.com/activities/evening-run-563593692]]></i
 <p><a href="https://www.strava.com/activities/558594243">Check out the run!</a></p>
 ]]></description>
             <pubDate>Wed, 27 Apr 2016 17:40:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/PRC1.m4a" length="1159939" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/PRC1.m4a" length="1159939" type="audio/x-m4a"/>
             <guid isPermaLink="false">6B1A5A86-7C71-4EC7-B558-D93A6CCC892C</guid>
             <itunes:subtitle>Whatever it takes to motivate yourself…</itunes:subtitle>
             <itunes:summary><![CDATA[Whatever it takes to motivate yourself…
@@ -275,7 +275,7 @@ Check out the run! https://www.strava.com/activities/558594243]]></itunes:summar
 <p><a href="https://www.strava.com/activities/557728967">Check out the run!</a></p>
 ]]></description>
             <pubDate>Tue, 26 Apr 2016 22:34:33 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/5.m4a" length="6181770" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/5.m4a" length="6181770" type="audio/x-m4a"/>
             <guid isPermaLink="false">A81E5894-EAE5-4F19-8BFE-9A6FE05DFBC3</guid>
             <itunes:summary><![CDATA[* Learning to endure over not just one run, but many months, with a training strategy.
 
@@ -296,7 +296,7 @@ Check out the run! https://www.strava.com/activities/557728967]]></itunes:summar
 <p><a href="https://www.strava.com/activities/547225651">Check out the run!</a></p>
 ]]></description>
             <pubDate>Sat, 16 Apr 2016 14:41:45 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/4.m4a" length="6166459" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/4.m4a" length="6166459" type="audio/x-m4a"/>
             <guid isPermaLink="false">C2539EC5-72A8-4B2D-B775-735E9260E547</guid>
             <itunes:subtitle>Heart-rating training (on a run where I was heart-rating training)!</itunes:subtitle>
             <itunes:duration>4:58</itunes:duration>
@@ -308,7 +308,7 @@ Check out the run! https://www.strava.com/activities/557728967]]></itunes:summar
 <p><a href="https://www.strava.com/activities/546891538">Check out the run!</a></p>
 ]]></description>
             <pubDate>Fri, 15 Apr 2016 17:35:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/3.m4a" length="6725682" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/3.m4a" length="6725682" type="audio/x-m4a"/>
             <guid isPermaLink="false">7BEEC4FF-6611-41E5-8655-CEFC6996B251</guid>
             <itunes:subtitle>Sometimes, you just have to get out there to clear your head.</itunes:subtitle>
             <itunes:summary><![CDATA[Sometimes, you just have to get out there to clear your head.
@@ -323,7 +323,7 @@ Check out the run! https://www.strava.com/activities/546891538]]></itunes:summar
 <p><a href="https://www.strava.com/activities/541646420">Check out the run!</a></p>
 ]]></description>
             <pubDate>Sun, 10 Apr 2016 14:15:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/2.m4a" length="5182081" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/2.m4a" length="5182081" type="audio/x-m4a"/>
             <guid isPermaLink="false">6E1F1FF7-469E-41DB-8556-0F265D08F679</guid>
             <itunes:subtitle>Staying motivated by running new routes.</itunes:subtitle>
             <itunes:summary><![CDATA[Staying motivated by running new routes.
@@ -338,7 +338,7 @@ Check out the run! https://www.strava.com/activities/541646420]]></itunes:summar
 <p><a href="https://www.strava.com/activities/536514052">Check out the run!</a></p>
 ]]></description>
             <pubDate>Tue, 05 Apr 2016 15:00:00 -0400</pubDate>
-            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/runwith/1.m4a" length="4272484" type="audio/x-m4a"/>
+            <enclosure url="http://www.podtrac.com/pts/redirect.m4a/cdn.chriskrycho.com/file/chriskrycho-com/runwith/1.m4a" length="4272484" type="audio/x-m4a"/>
             <guid isPermaLink="false">1470B853-C3E9-46FE-9CEB-475C4CFBE1BB</guid>
             <itunes:summary><![CDATA[I went for a run. And then I invited you to join me! Here's to some great running in the weeks and months, and maybe years, ahead!
 
