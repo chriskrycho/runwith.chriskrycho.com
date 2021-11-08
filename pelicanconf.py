@@ -15,7 +15,7 @@ TIMEZONE = 'America/New_York'
 DEFAULT_DATE_FORMAT = "%B %d, %Y"
 DEFAULT_LANG = 'en'
 
-THEME = 'podcast_theme'
+THEME = '../podcast_theme'
 
 THEME_STATIC_DIR = ''
 
